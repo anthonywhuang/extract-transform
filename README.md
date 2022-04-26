@@ -7,4 +7,4 @@ sometimes the responsibilities and qualifications are nested in "< ul >" lines a
 would i need to create some new code to pull specifically the div class of something like 'jobsearch-JobComponent' first? cause then i'm also having trouble pulling them because the next couple of characters are different which makes sense but i don't know how to put a wild card in the find statement
 
 like this:
-jobsearch-JobComponent ***-*-**-**--**
+jobsearch-JobComponent ???-?-??-??--??
