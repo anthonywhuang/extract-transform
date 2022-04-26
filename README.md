@@ -5,3 +5,6 @@ i have the title, company, estimated salary, and location of the job titles. wha
 sometimes the responsibilities and qualifications are nested in "< ul >" lines and then show up as "< li >" and sometimes they're in "< p >" and then "< b >" lines. they also don't have tags and just the letters so i'm having trouble pulling them. qualifications and responsibilities also aren't on every posting. sometimes it's one sometimes it's the other.
   
 would i need to create some new code to pull specifically the div class of something like 'jobsearch-JobComponent' first? cause then i'm also having trouble pulling them because the next couple of characters are different which makes sense but i don't know how to put a wild card in the find statement
+
+like this:
+jobsearch-JobComponent ***-*-**-**--**
